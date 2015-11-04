@@ -1,0 +1,23 @@
+name: reale
+favicon: null
+layout_spectrum: 0.881860644556582
+typography_spectrum: 0.6867408805992454
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5163084655068815
+  lightness: 0.7662504992913455
+  saturation: 0.46403040643781424
+  rhythmicContrast: 0.509072481887415
+purpose: []
